@@ -5,6 +5,7 @@
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 - [Aura Network](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
+- [Axelar](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
 - [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq)
 - [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 - [Cosmos Network](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
@@ -12,6 +13,7 @@
 - [EVMOS](https://www.mintscan.io/evmos/validators/evmosvaloper1jk7umxyky5m5dul46t8nxneavlg7eysjr6lfj7)
 - [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
+- [Humans.ai](https://explorer.nodestake.top/humans/staking/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
 - [Injective Protocol](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 - [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
@@ -22,6 +24,7 @@
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [QuickSilver](https://www.mintscan.io/quicksilver/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
+- [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper1yqc0eg2ntxj2lnw99hgl0egaw27cp3f2kwa94q)
 
