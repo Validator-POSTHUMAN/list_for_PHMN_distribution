@@ -3,6 +3,7 @@
 ## Delegators of the POSTHUMAN validator in this networks, will receive $PHMN drop until the beginning of 2030:
 
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
+- [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 - [Aura Network](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 - [Archway](https://www.mintscan.io/archway/validators/archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p)
