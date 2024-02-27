@@ -27,6 +27,7 @@
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [QuickSilver](https://www.mintscan.io/quicksilver/validators/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
+- [Source Protocol](https://ping.pub/source/staking/sourcevaloper1srwjhdup98l35vruhyagvmyqpu6cgrhmqystgp)
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [Stride](https://www.mintscan.io/stride/validators/stridevaloper1yqc0eg2ntxj2lnw99hgl0egaw27cp3f2kwa94q)
 
