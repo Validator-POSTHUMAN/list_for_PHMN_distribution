@@ -7,7 +7,6 @@
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
 - [Aura Network](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 - [Axelar](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
-- [Crescent Network](https://www.mintscan.io/crescent/validators/crevaloper12yudzhed4cqjpwkv52hwut7a5xn8h7j97gqhaq)
 - [Chihuahua](https://www.mintscan.io/chihuahua/validators/chihuahuavaloper1fm68jvjpk0g7dvdq75czjynyszeaduxt5lc0a8)
 - [Comdex](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk)
 - [Cosmos Hub](https://www.mintscan.io/cosmos/validators/cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv)
