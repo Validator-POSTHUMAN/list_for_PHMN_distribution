@@ -21,6 +21,7 @@
 - [Ki Chain](https://www.mintscan.io/ki-chain/validators/kivaloper1g2sr6x8hrtwwsaaqu8p8r7dzdfugdcsal08gq8)
 - [KYVE Network](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [LikeCoin](https://likecoin.bigdipper.live/validators/likevaloper13shmgwhlhw36sv6yfqz9llpcynu7pkqngh9sqk)
+- [Nolus Protocol](https://nolus.explorers.guru/validator/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [ODIN Protocol](https://look.chillvalidation.com/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
