@@ -16,6 +16,7 @@
 - [Humans.ai](https://www.mintscan.io/humans/validators/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
 - [Injective](https://www.mintscan.io/injective/validators/injvaloper1e84fr6cxgcflv3fc9ey6n8425au7zx6wsztrle)
 - [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
+- [KYVE](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [Namada]() - will be added after the launch of main-net and listing of $NAM
 - [Nolus Protocol](https://nolus.explorers.guru/validator/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
