@@ -23,7 +23,6 @@
 - [ODIN Protocol](https://ping.pub/odin/staking/odinvaloper1wuwhanclwh9ckpe6z6480t3pjjpk7dsj2trk9p)
 - [OmniFlix](https://www.skynetexplorers.com/omniflix/staking/omniflixvaloper1s3achxs70ysg8pf9xqyytu0m4had60khpuccxl)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
-- [Penumbra](https://penumbra.today/validator/penumbravalid1lt6083d99s0phj44wd45stgu2juasu582sc02j2w7qqcqfkg5qxsz0vmu5)
 - [Persistence](https://www.mintscan.io/persistence/validators/persistencevaloper10sc98vt6saux8asexnsp2hgvkgmjmful8w5cuw)
 - [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fe7umkd)
 - [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
