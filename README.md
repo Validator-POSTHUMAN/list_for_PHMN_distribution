@@ -4,6 +4,7 @@
 
 - [Akash Network](https://www.mintscan.io/akash/validators/akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk)
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1xrvhlxasg3duvmz82gn5gggpc8wwry7luclvx9)
+- [Atom One](https://www.mintscan.io/atomone/validators/atonevaloper1vcp7pkg8sk0n8ylhezxxs8qqrnwfld4dsv2sew)
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 - [Aura Network](https://aurascan.io/validators/auravaloper15pzl0s6ym85qx4yeq29rflp702wtx3dntle05a)
 - [Axelar](https://www.mintscan.io/axelar/validators/axelarvaloper1ftqma496np33y054x6gjeh2maxy00e00p2nl9l)
