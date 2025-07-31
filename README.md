@@ -25,7 +25,6 @@
 - [Juno Network](https://www.mintscan.io/juno/validators/junovaloper1e8238v24qccht9mqc2w0r4luq462yxttjzn7qt)
 - [KYVE](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
-- [Mina](https://minascan.io/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75/delegations)
 - [Nolus Protocol](https://nolus.explorers.guru/validator/nolusvaloper108wunsvlzm7l6pf456ntw9e84gp3zkv23mydme)
 - [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1wsx2xrz86lsq585f4002uq3xwlla88y5dw38t6)
 - [Nillion](https://www.mintscan.io/nillion/validators/nillionvaloper17lsgxjnzkp0gm6wt8zudsr09hw2y95aht46p78)
