@@ -30,7 +30,6 @@ Accepted by the [Proposal #A67 in POSTHUMAN DAS on September 18, 2025](https://d
 - [Side Protocol](https://explorer.posthuman.digital/side/staking/sidevaloper1qqwp68scpqz3qrq3ru8p5rsuzsy3w9caqgqp2zchpqf32zsdqgt3z75w685) - will be added after  listing of $SIDE
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [STARKNET](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
-- [Stride](https://www.mintscan.io/stride/validators/stridevaloper1yqc0eg2ntxj2lnw99hgl0egaw27cp3f2kwa94q)
 - [ZetaChain](https://www.mintscan.io/zeta/validators/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
 
 More about [$PHMN tokenomics and distribution](https://medium.com/@antropocosmist/phmn-tokenomics-f3b7116331e6)
