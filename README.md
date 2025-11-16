@@ -17,7 +17,6 @@ Accepted by the [Proposal #A67 in POSTHUMAN DAS on September 18, 2025](https://d
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 - [Fuel](https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1w8wrpz8n2z08625r63jdc4snznj6h8lxru5lcz)
 - [Humans.ai](https://www.mintscan.io/humans/validators/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
-- [Initia](https://scan.initia.xyz/interwoven-1/validators/initvaloper14d8l6xj7hww6ccp6vr50amq392pgch4w0xthpa)
 - [KYVE](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
 - [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
