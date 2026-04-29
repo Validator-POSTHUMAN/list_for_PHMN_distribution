@@ -17,14 +17,12 @@ Accepted by the [Proposal #A67 in POSTHUMAN DAS on September 18, 2025](https://d
 - [FirmaChain](https://explorer.firmachain.dev/validators/firmavaloper143v9wpr870kt22gmtxgl7tc72twkd6z48h5yaj)
 - [Fuel](https://fuel-seq.simplystaking.xyz/fuel-mainnet/staking/fuelsequencervaloper1w8wrpz8n2z08625r63jdc4snznj6h8lxru5lcz)
 - [Humans.ai](https://www.mintscan.io/humans/validators/humanvaloper1ndnf0cd75nvz56feqy23um3mq22nlhe9ggu0uh)
-- [KYVE](https://www.mintscan.io/kyve/validators/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Neutron](https://www.mintscan.io/neutron/validators/neutronvaloper1md0k6m8y58w8u98x82kjah7r5zcajw7c5v5ypa)
 - [Lava Network](https://lava-explorer.mellifera.network/lava/staking/lava@valoper1kwk34225f9eq3sklaf7xws8mc9lhu6sxhh57pj)
 - [Oraichain](https://explorer.posthuman.digital/oraichain/staking/oraivaloper1gvk3caqtdnwhff60ndm29tp0m7p8e57zgx588h)
 - [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - [Secret Network](https://www.mintscan.io/secret/validators/secretvaloper1f8chr3y3s9h8g4vc5pg8wvzzhfy3hcxm0re5zc)
-- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper14ftwwcfvhnp3qvxawesjan5duh8rmrkrzdvquy)
 - [STARKNET](https://voyager.online/staking?validator=0x0327478b645a0c6889e995fe22b1298fae420dba24cc42422f0c066763d08dc9)
-- [ZetaChain](https://www.mintscan.io/zeta/validators/zetavaloper1mj5uvv4703fwvna0t622yj9386cfwavr2hl6q4)
+
 
 More about [$PHMN tokenomics and distribution](https://medium.com/@antropocosmist/phmn-tokenomics-f3b7116331e6)
