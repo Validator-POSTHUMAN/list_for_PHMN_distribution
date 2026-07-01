@@ -1,3 +1,20 @@
+# PHMN Distribution List Archive
+
+This repository is historical and describes the original PHMN distribution plan.
+
+PHMN has migrated from the old Juno CW20 token to a new Cosmos Hub TokenFactory
+token. Use the current migration repository and official statement for active
+PHMN information:
+
+- New PHMN migration rules and snapshot data: https://github.com/Validator-POSTHUMAN/new-phmn
+- Official PHMN migration statement: https://github.com/Validator-POSTHUMAN/new-dao-structure/blob/main/docs/official-phmn-migration-statement.md
+- New PHMN TokenFactory denom: `factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN`
+- New POSTHUMAN DAS: https://daodao.zone/dao/cosmos1lj6knrgumqr5a9jxmkqeag476gmzgn24mv0w3548tyw6a5ryr7ms6xl599
+
+The old proposal and distribution notes below are kept as historical context.
+
+---
+
 # List of the Networks for $PHMN distribution among individual delegators
 Accepted by the [Proposal #A67 in POSTHUMAN DAS on September 18, 2025](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A67)
 
