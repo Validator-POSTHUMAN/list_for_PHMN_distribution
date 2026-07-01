@@ -1,4 +1,16 @@
 # List of the Networks for $PHMN distribution among individual delegators
+
+> **⚠️ IMPORTANT: PHMN Token Migration Notice**
+> 
+> The PHMN token has migrated to Cosmos Hub using TokenFactory.
+> 
+> - **Old PHMN** (Juno): CW20 token on Juno network
+> - **New PHMN** (Cosmos Hub): `factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN`
+> 
+> Migration details and snapshot: https://github.com/Validator-POSTHUMAN/new-phmn
+> 
+> This list represents the original distribution proposal and remains as historical reference.
+
 Accepted by the [Proposal #A67 in POSTHUMAN DAS on September 18, 2025](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/proposals/A67)
 
 ## Delegators of the POSTHUMAN validator in this networks, will receive $PHMN drop until the beginning of 2030:
